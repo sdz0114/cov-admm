@@ -1,0 +1,7 @@
+norm_type,p,1,1
+Matrix l1 norm,100,,10.53 (0.19)
+Matrix l1 norm,200,,17.52 (0.18)
+Matrix l1 norm,500,,42.09 (0.38)
+Frobenius norm,100,,10.23 (0.08)
+Frobenius norm,200,,17.83 (0.07)
+Frobenius norm,500,,41.18 (0.12)
